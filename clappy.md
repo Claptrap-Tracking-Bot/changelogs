@@ -1,3 +1,14 @@
+Sunday 14 May 2023
+
+* The dashboard is now VUE based (same platform as Modrinth), making it MUCH faster and more responsive
+* You can now edit existing tracked projects, allowing you to move them to a different channel and manage ping roles on them
+* The settings page is now a lot more mobile friendly
+* You enable/disable compact notifications from the Server Settings page (This setting is per server, and not per channel/project)
+* Added a new API Keys page. Here you can manage API keys for the Claptrack API and Mobile App (Coming Soon ™️)
+* Added a Privacy Policy, Terms of Service and Licenses page
+* We improved the "Add Project" popup and warning messages when untracking projects
+
+
 Sunday 05 February 2023
 
 * Added support for the new Curse Launcher Tracking and Filtering
