@@ -1,4 +1,4 @@
-Thursday 31 May 2023
+Wednesday 31 May 2023
 
 * Fixed an issue with Curseforge Alpha/Beta files not being detected as updates
 
