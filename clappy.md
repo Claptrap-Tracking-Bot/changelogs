@@ -1,3 +1,7 @@
+Wednesday 31 May 2023
+
+* Fixed a bug that didn't allow you track Curseforge projects in channels that already had curse projects tracked in them
+
 Sunday 14 May 2023
 
 * The dashboard is now VUE based (same platform as Modrinth), making it MUCH faster and more responsive
