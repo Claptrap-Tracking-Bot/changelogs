@@ -1,3 +1,7 @@
+Thursday 31 May 2023
+
+* Fixed an issue with Curseforge Alpha/Beta files not being detected as updates
+
 Sunday 14 May 2023
 
 * Switched from using SQLite to Postgres. Also cleaned up the database
