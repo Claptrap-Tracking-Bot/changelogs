@@ -1,3 +1,13 @@
+Wednesday 29 November 2023
+
+* Improved Curselauncher Filtering Options
+* Added Filter support for NeoForged
+* Removed broken Service Status indicator
+
+Monday 7 August 2023
+
+* Updated Settings page to support NeoForge notifications
+
 Wednesday 31 May 2023
 
 * Fixed a bug that didn't allow you track Curseforge projects in channels that already had curse projects tracked in them
