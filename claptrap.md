@@ -1,3 +1,14 @@
+Wednesday 29 November 2023
+
+* Added Curselauncher ModLoader notification support for NeoForge
+* Added Quilt to Curselauncher Filtering Options
+* Improved the overall Curselauncher Filtering
+* Updated Discord JDA
+
+Monday 7 August 2023
+
+* Added support for NeoForge notifications
+
 Wednesday 31 May 2023
 
 * Fixed an issue with Curseforge Alpha/Beta files not being detected as updates
