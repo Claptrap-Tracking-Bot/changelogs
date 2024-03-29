@@ -1,3 +1,15 @@
+Friday 29 March 2024
+
+* Published the redesigned website and dashboard
+* Improved layout for tracked projects
+* Added Search bar to all channel dropdowns
+* Added the ability to set notification styles per project, rather than per server
+* Added caching for some information to improve response times, and prevent rate limits
+* More updates coming soon!
+
+
+***
+
 Wednesday 29 November 2023
 
 * Improved Curselauncher Filtering Options
