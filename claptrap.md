@@ -1,3 +1,15 @@
+Friday 29 March 2024
+
+* Fixed ATLauncher and GitHub commands not allowing you to untrack projects
+* Added the ability to change notification styles when tracking new projects
+* Fixed NeoForge and Curseforge Spelling on Embeds
+* Updated CurseForge Logos on Embeds
+* Fixed FTB updates not being posted
+* Added better monitoring to discover outages and errors
+  
+
+***
+
 Wednesday 29 November 2023
 
 * Added Curselauncher ModLoader notification support for NeoForge
