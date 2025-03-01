@@ -9,6 +9,8 @@
 * Added support for changing the changelog length
 * Added support for changing between code blocks, or raw markdown for changelogs
 
+***
+
 ## Tuesday 28 January 2025
 
 * Fixed Dashboard being limited to 200 servers and not showing for new servers
