@@ -9,19 +9,19 @@
 * Added support for changing the changelog length
 * Added support for changing between code blocks, or raw markdown for changelogs
 
-# Tuesday 28 January 2025
+## Tuesday 28 January 2025
 
 * Fixed Dashboard being limited to 200 servers and not showing for new servers
 
 ***
 
-# Sunday 18 August 2024
+## Sunday 18 August 2024
 
 * Fixed some update trackers failing to run completely when they encounter any errors
 
 ***
 
-# Friday 05 July 2024
+## Friday 05 July 2024
 
 * Fixed bot not being able to be added to new servers after discord verification
 * Fixed dashboard displaying "Not a member of this guild"
@@ -29,13 +29,13 @@
 
 ***
 
-# Thursday 23 May 2024
+## Thursday 23 May 2024
 
 * Fixed other games from CurseForge not being supported anymore
 
 ***
 
-# Satuday 06 April 2024
+## Satuday 06 April 2024
 
 * Fixed wrong channel type in slash commands
 * Fixed modrinth updates spamming logs with errors, that aren't errors
