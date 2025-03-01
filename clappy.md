@@ -1,4 +1,15 @@
-Friday 29 March 2024
+## Saturday 01 March 2025
+
+* Added Support to Ping Roles on Forge, NeoForge, Quilt, Fabric, Minecraft and CurseLauncher notifications
+* Added Support for Changelog Length and Changelog Style
+* Updated Minecraft Icons
+* Changed News Pages to render Markdown
+* Logging in when you've used the bot before, no longer asks you to re-authenticate
+* Fixed "Add to server" buttons not working
+
+***
+
+## Friday 29 March 2024
 
 * Published the redesigned website and dashboard
 * Improved layout for tracked projects
@@ -10,21 +21,27 @@ Friday 29 March 2024
 
 ***
 
-Wednesday 29 November 2023
+## Wednesday 29 November 2023
 
 * Improved Curselauncher Filtering Options
 * Added Filter support for NeoForged
 * Removed broken Service Status indicator
 
-Monday 7 August 2023
+***
+
+## Monday 7 August 2023
 
 * Updated Settings page to support NeoForge notifications
 
-Wednesday 31 May 2023
+***
+
+## Wednesday 31 May 2023
 
 * Fixed a bug that didn't allow you track Curseforge projects in channels that already had curse projects tracked in them
 
-Sunday 14 May 2023
+***
+
+## Sunday 14 May 2023
 
 * The dashboard is now VUE based (same platform as Modrinth), making it MUCH faster and more responsive
 * You can now edit existing tracked projects, allowing you to move them to a different channel and manage ping roles on them
@@ -34,8 +51,9 @@ Sunday 14 May 2023
 * Added a Privacy Policy, Terms of Service and Licenses page
 * We improved the "Add Project" popup and warning messages when untracking projects
 
+***
 
-Sunday 05 February 2023
+## Sunday 05 February 2023
 
 * Added support for the new Curse Launcher Tracking and Filtering
 * Fixed the Bot Invite link for Claptrap-Next
@@ -43,8 +61,9 @@ Sunday 05 February 2023
 * Fixed Theme Toggle color on Light Mode
 * Added Support for Claptrap News Channel to Server Settings
 
+***
 
-Monday 21 November 2022
+## Monday 21 November 2022
 
 * Finished new Website design
 * Added Changelog page
